@@ -1,0 +1,1 @@
+export const teste = 'marcos e antonio love'
